@@ -1,0 +1,69 @@
+1646641821475	geckodriver	INFO	Listening on 127.0.0.1:9496
+1646641822598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile1rHWX9"
+1646641823259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile1rHWX9\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1646641826806	Marionette	INFO	Listening on port 54220
+1646641826947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://live.techpanda.org"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to JaavaScr ispyt necrhrroorn:o urse mseossuracgee: /f/ogrr:e/"m o"dhutlteps://live.techpandas.o/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+rg"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://live.techpanda.org"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://live.techpanda.org"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falliJng back to a synchronous message faovra:" "httpSsc:r/i/plti veer.rtoerc:h panda.org"re
+console.swarn: oLuorgcie://gre/mnRoduecipes: "lges/LoginManagerePtaRreecnitp.ejss:m ,f allilnien g1 3b6a:c kT ytpoe Ear rsyor: gRecipeManager is null
+JavaScript ernrcohrr:o resourcneo:u/s/ gmessage for:" "https://live.techpanda.org"
+re/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://live.techpanda.org/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://live.techpanda.org/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://live.techpanda.org/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronoJuavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: Ts message for:" "https://live.techpanda.org"
+ypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: fallJiavaScripntg  ebrarcokr :t or eas osuyrncceh:r/o/ngorues/ mmoedsuslaegse/ Lfoogri:n"M a"nhattp://lgievreP.atreent.cjhspm,a nldian.eo r1g3"6:
+ TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falJlaivnagS cbraicpkt  teor rao rs:y nrcehsroounrocues: /m/egsrsea/gmeo dfuolre:s"/ L"ohgtitnpM:a/n/algievreP.atreecnhtp.ajnsdma,. olrign"e 
+136: TypeError: gRecipeManager is null
+JavaScript warning: http://live.techpanda.org/js/varien/product.js, line 485: unreachable code after return statement
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://live.techpanda.org"JavaScript 
+error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes:Ja vfaaSlcrilpitn ge rbraocrk:  troe sao usrycnec:h/r/ognre/moduoluess /mLeosgsiangMeanagerPa rfeonrt:."j sm, line 136: TypeError: g"Rhetctipp:e/M/alniavgee.rt eicsh pnaunldla.
+org"
+JavaScript warning: https://live.techpanda.org/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://live.techpanda.org/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript warning: https://live.techpanda.org/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://live.techpanda.org/js/varien/product.js, line 485: unreachable code after return statement
+JavaScript warning: https://live.techpanda.org/js/varien/configurable.js, line 291: unreachable code after return statement
+JavaScript error: https://live.techpanda.org/skin/frontend/rwd/default/js/app.js, line 1194: TypeError: image.elevateZoom is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchJravaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManaoger is null
+nous message for:" "https://live.techpanda.org"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:"J a"vhatStcprsi:p/t/ leirvreo.rt:e crhepsaonudrac.eo:r/g/"gr
+e/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://live.techpanda.org/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronousJ message for:" "https://live.techpandaavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+.org"
+JavaScript warning: https://live.techpanda.org/js/calendar/calendar.js, line 138: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://live.techpanda.org"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646641895094	Marionette	INFO	Stopped listening on port 54220
